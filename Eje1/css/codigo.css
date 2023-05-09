@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(90deg, rgba(192, 1, 206, 0.376) 0%, rgb(31, 15, 253) 100%);
+}
+
+#main-container {
+    padding-top: 10vh;
+    padding-bottom: 3vh;
+}
+
+#login-tit {
+    background-color: rgb(255, 234, 234);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 20px;
+}
+
+.credentials-form {
+    background-color: #ececec;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#last-form-element {
+    padding-top: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+#first-form-element {
+    padding-bottom: 0px;
+}
+
+#social-media button {
+    margin-top: 15px;
+}
